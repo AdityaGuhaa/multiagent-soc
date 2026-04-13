@@ -2,6 +2,8 @@
 
 **An AI‑augmented, rule‑based SOC prototype** that continuously streams Linux authentication logs, detects malicious activity with lightweight detectors, enriches events with VirusTotal intelligence, and makes automated response decisions via a three‑agent CrewAI workflow.
 
+<img width="1920" height="1080" alt="Screenshot from 2026-04-13 15-37-50" src="https://github.com/user-attachments/assets/f3cd6327-352a-4c00-ad0c-7dc79d8597be" />
+
 ---
 
 ## Table of Contents
